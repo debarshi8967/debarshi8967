@@ -7,8 +7,6 @@
 
 - 📝 I regularly write articles on [https://thebloggersaddaa.blogspot.com/](https://thebloggersaddaa.blogspot.com/)
 
-- 💬 Ask me about **HTML**
-
 - 📫 How to reach me **debarshimahato@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/debarshimahato17/](https://www.linkedin.com/in/debarshimahato17/)
