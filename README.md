@@ -1,10 +1,12 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=debarshi8967&&style=flat-square" />
 
+<h1 align="center" style="color: cyan; background-color: red; padding: 10px;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines= Hey 👋;+I'm+Debarshi+Mahato!;">
+</h1>
 
+<h1 align="center"> Hey 👋, I'm Debarshi Mahato! </h1> 
 
-<h1 align="center">## Hey 👋, I'm Debarshi Mahato! </h1> 
-
-<h3 align="center">A passionate Data Analyst from India</h3>
-
+<h3 align="center">A passionate Data Analyst and BI Developer from India</h3> 
 
   
 <div align="center"> 
@@ -74,9 +76,6 @@ Let’s transform data into decisions! 🌟
 </div>
   
 <br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=debarshi8967&&style=flat-square)  
-  
 
 <br/>  
 
