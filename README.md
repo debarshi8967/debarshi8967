@@ -87,4 +87,6 @@ Let’s transform data into decisions! 🌟
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+    <h3>Thanks for visiting! Shoot me a message on <a href="https://www.linkedin.com/in/vishnukanth-k-a5552327b/">LinkedIn</a>! I'm always down to collab! 😊</h3>
+  </div>
