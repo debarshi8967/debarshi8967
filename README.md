@@ -88,5 +88,5 @@ Let’s transform data into decisions! 🌟
 
 ----
 <div align="center">
-    <h3>Thanks for visiting! Shoot me a message on <a href="https://www.linkedin.com/in/vishnukanth-k-a5552327b/">LinkedIn</a>! I'm always down to collab! 😊</h3>
+    <h3>Thanks for visiting! Shoot me a message on <a href="https://in.linkedin.com/in/debarshimahato17">LinkedIn</a>! I'm always down to collab! 😊</h3>
   </div>
