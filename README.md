@@ -61,21 +61,18 @@ Let’s transform data into decisions! 🌟
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=debarshi8967&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarshi8967&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
   
-
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center" style="background-color: cyan; padding: 10px; border-radius: 10px; border: 2px solid red;">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=debarshi8967&count_private=true&theme=react&border_radius=10" alt="readme stats" style="pointer-events: none;"></img>
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=debarshi8967&count_private=true&theme=react&border_radius=10" alt="streak stats" style="pointer-events: none;"></img>
+  <br>
+  <div align="center">
+  <!-- Add a note about the theme contrast -->
+ <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarshi8967&langs_count=2&layout=compact&theme=react&border_radius=10&hide=html&exclude_repo=github-readme-stats&hide_border=true&title_color=61DAFB&bg_color=FFFFFF00&text_color=61DAFB" alt="top langs" style="pointer-events: none;">
+</div>
+  
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=debarshi8967&&style=flat-square)  
